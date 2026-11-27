@@ -100,7 +100,7 @@
 
 扫码加入微信群，咨询下单、查询订单、售后问题：
 
-![微信群二维码](./images/wechat-group-qr.png)
+![微信群二维码](./images/wechat-group-qr-claude.png)
 
 > 若二维码过期，可联系客服获取最新入群二维码。
 
