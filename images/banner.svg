@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e3a5f"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="6" fill="url(#accent)"/>
+  <circle cx="1050" cy="110" r="150" fill="#ffffff" opacity="0.04"/>
+  <circle cx="980" cy="180" r="90" fill="#ffffff" opacity="0.03"/>
+  <text x="60" y="100" font-family="-apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="46" font-weight="700" fill="#ffffff">Claude / GPT 订阅服务价格指南</text>
+  <text x="60" y="158" font-family="-apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="22" fill="#cbd5e1">成品号 · iOS Pro · GPT Plus / 5X / 20X / 50X · 卡付直充 · 价格透明</text>
+  <text x="1140" y="196" text-anchor="end" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="16" fill="#94a3b8">zsk.yokpon.com</text>
+</svg>
